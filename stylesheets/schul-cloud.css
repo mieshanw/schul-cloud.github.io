@@ -1732,7 +1732,7 @@ pagination prev/next links */
     font-family: "PT Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #BBC7CC;
+    background-color: #e6e2e2;
 }
 
 .site-footer a {
@@ -1747,14 +1747,19 @@ pagination prev/next links */
 
 .poweredby {
     display: block;
-    width: 45%;
+    width: 30%;
     float: right;
     text-align: right;
 }
 
+.editlink {
+    display: block;
+    text-align: center;
+    width: 30%;
+}
 .copyright {
     display: block;
-    width: 45%;
+    width: 30%;
     float: left;
 }
 
